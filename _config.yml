@@ -26,7 +26,7 @@ baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : "Go-hyunsol/sorry_35.github.io" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : # "/assets/images/my.jpg"
 logo                     : "/assets/images/logo1.png" # path of logo image to display in the masthead, e.g.
-masthead_title           : "Urban Data Science" # overrides the website title displayed in the masthead, use " " for no title
+masthead_title           : "Developer Biography" # overrides the website title displayed in the masthead, use " " for no title
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
 comments:
@@ -109,7 +109,7 @@ analytics:
 author:
   name             : "Go-hyunsol"
   avatar           : "/assets/images/my.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Identifing urban phenomenon with data science."
+  bio              : "The computer is only a tool of mine."
   location         : "hwaseong, Korea"
   email            :
   links:
