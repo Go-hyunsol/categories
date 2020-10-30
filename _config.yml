@@ -16,7 +16,7 @@ minimal_mistakes_skin    : "dirt" # "air", "aqua", "contrast", "dark", "default"
 
 # Site Settings
 locale                   : "ko"
-title                    : "SOL의 프로그래밍 성장기"
+title                    : "Universal Development"
 title_separator          : "-"
 subtitle                 : # 즐거운 소프트웨어 놀이터 site tagline that appears below site title in masthead
 name                     : ""
@@ -107,7 +107,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Go-hyunsol"
+  name             : "Hyunsol"
   avatar           : "/assets/images/my.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "The computer is only a tool of mine."
   location         : "hwaseong, Korea"
