@@ -15,11 +15,11 @@
 minimal_mistakes_skin    : "dirt" # "air", "aqua", "contrast", "dark", "default", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
-locale                   : "sorry_35"
-title                    : "sorry_35's blog"
+locale                   : "ko"
+title                    : "sorry's blog"
 title_separator          : "-"
 subtitle                 : # 즐거운 소프트웨어 놀이터 site tagline that appears below site title in masthead
-name                     : "yganalyst"
+name                     : ""
 description              : "Identifing urban phenomenon with data science."
 url                      : "https://sorry_35.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
@@ -32,7 +32,7 @@ words_per_minute         : 200
 comments:
   provider               : "disqus" # false (default), "disqus", "discourse", "facebook", "staticman", "staticman_v2", "utterances", "custom"
   disqus:
-    shortname            : "yganalyst-github-io" # https://help.disqus.com/customer/portal/articles/466208-what-s-a-shortname-
+    shortname            : "Go-hyunsol-github-io" # https://help.disqus.com/customer/portal/articles/466208-what-s-a-shortname-
   discourse:
     server               : # https://meta.discourse.org/t/embedding-discourse-comments-via-javascript/31963 , e.g.: meta.discourse.org
   facebook:
@@ -107,10 +107,10 @@ analytics:
 
 # Site Author
 author:
-  name             : "yganalyst"
+  name             : "Go-hyunsol"
   avatar           : "/assets/images/my.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Identifing urban phenomenon with data science."
-  location         : "Seoul, Korea"
+  location         : "hwaseong, Korea"
   email            :
   links:
     - label: "Email"
