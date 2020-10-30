@@ -1,7 +1,7 @@
 
 ## Blog  
 
-https://go-hyunsol.github.io/categories/ 
+https://Go-hyunsol.github.io/main/ 
 
   
 
