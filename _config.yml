@@ -26,7 +26,7 @@ baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : "Go-hyunsol/sorry_35.github.io" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : # "/assets/images/my.jpg"
 logo                     : "/assets/images/logo1.png" # path of logo image to display in the masthead, e.g.
-masthead_title           : "Developer Biography" # overrides the website title displayed in the masthead, use " " for no title
+masthead_title           : "Universal Development" # overrides the website title displayed in the masthead, use " " for no title
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
 comments:
