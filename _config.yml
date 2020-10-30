@@ -16,7 +16,7 @@ minimal_mistakes_skin    : "dirt" # "air", "aqua", "contrast", "dark", "default"
 
 # Site Settings
 locale                   : "ko"
-title                    : "sorry's blog"
+title                    : "SOL의 프로그래밍 성장기"
 title_separator          : "-"
 subtitle                 : # 즐거운 소프트웨어 놀이터 site tagline that appears below site title in masthead
 name                     : ""
