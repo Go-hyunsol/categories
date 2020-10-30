@@ -110,7 +110,7 @@ author:
   name             : "HYUNSOL"
   avatar           : "/assets/images/my.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "The computer is only a tool of mine."
-  location         : "hwaseong, Korea"
+  location         : "Hwaseong, Korea"
   email            :
   links:
     - label: "Email"
