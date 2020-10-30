@@ -311,3 +311,5 @@ sidebar:
     text: "Some text here."
   - title: "Another Title"
     text: "More text here."
+
+theme: jekyll-theme-midnight
