@@ -20,7 +20,7 @@ title                    : "Universal Development"
 title_separator          : "-"
 subtitle                 : # 즐거운 소프트웨어 놀이터 site tagline that appears below site title in masthead
 name                     : ""
-description              : "Errors should never pass silently.,Unless explicitly silenced."
+description              : "Errors should never pass silently./nUnless explicitly silenced."
 url                      : "https://sorry_35.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : "Go-hyunsol/sorry_35.github.io" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -109,7 +109,7 @@ analytics:
 author:
   name             : "HYUNSOL"
   avatar           : "/assets/images/my.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Errors should never pass silently.,Unless explicitly silenced."
+  bio              : "Errors should never pass silently./nUnless explicitly silenced."
   location         : "Hwaseong, Korea"
   email            :
   links:
